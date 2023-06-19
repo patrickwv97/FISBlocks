@@ -1,11 +1,6 @@
 #include "KWP.h"
 #include "FISLib.h"
 
-#define MAX_CONNECT_RETRIES 5
-#define NENGINEGROUPS 7
-#define NDASHBOARDGROUPS 1
-#define NMODULES 2
-
 //FIS
 #define pinENABLE 4
 #define pinCLOCK 5
