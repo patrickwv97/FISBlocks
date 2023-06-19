@@ -17,7 +17,7 @@ void setup(){
 }
 
 void loop(){
-  LCD.showText("Hallo du", "KNECK!);
+  LCD.showText("Hallo du", "KNECK!");
   delay(2000);
   LCD.showText("Lecki", "Cocki");
   delay(2000);
